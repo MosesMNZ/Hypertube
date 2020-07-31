@@ -1,0 +1,15 @@
+/node_real_stream/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/Video/test.mp4
+node_real_stream/node_modules
+/public/subtitles/*
+/public/film/*
+node_modules
